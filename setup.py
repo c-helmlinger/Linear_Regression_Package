@@ -4,7 +4,7 @@ setup(
   name='Linear_Regression_Package',
   author='Jessica Zhang',
   version='1.0.0',
-  description='',
+  description='Package test for Linear Regression model',
   packages=['Linear_Regression'],
 )
   
